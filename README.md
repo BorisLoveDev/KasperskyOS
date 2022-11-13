@@ -74,3 +74,4 @@ EDL description of the `Hello` entity is generated directly in CMake scripts usi
 ## Trademark notices
 
 Registered trademarks and service marks are the property of their respective owners.
+# KasperskyOS
